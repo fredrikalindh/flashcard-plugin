@@ -1,8 +1,7 @@
 ---
 name: write-flashcards
-description: Write spaced repetition flashcards using prompt-writing best practices. Invoke when users want to create flashcards, study material, or memorize concepts.
+description: Write spaced repetition flashcards using prompt-writing best practices. ALWAYS invoke when users want to create flashcards, study material, or memorize concepts.
 ---
-
 This skill guides creation of high-quality spaced repetition flashcards that produce genuine understanding, not rote memorization. 
 
 The user provides material to learn: text, concepts, procedures, or asks for help studying a topic. They may include context about why they're learning this or how they'll use it.
