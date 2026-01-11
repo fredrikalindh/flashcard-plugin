@@ -1,0 +1,9 @@
+{
+  "mochi": {
+    "command": "npx",
+    "args": ["-y", "@fredrika/mcp-mochi"],
+    "env": {
+      "MOCHI_API_KEY": "${MOCHI_API_KEY}"
+    }
+  }
+}

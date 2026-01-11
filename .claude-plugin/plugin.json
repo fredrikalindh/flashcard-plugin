@@ -1,0 +1,8 @@
+{
+  "name": "flashcards",
+  "description": "Create high-quality spaced repetition flashcards",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fredrika Lindh"
+  }
+}
